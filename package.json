@@ -1,0 +1,26 @@
+{
+  "name": "pcm-normalizer",
+  "version": "0.1.0",
+  "description": "PCM audio data normalizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doomjs/pcm-normalizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doomjs/pcm-normalizer/issues"
+  },
+  "homepage": "https://github.com/doomjs/pcm-normalizer#readme",
+  "keywords": [
+    "pcm",
+    "normalizer"
+  ],
+  "author": "IDDQD",
+  "license": "MIT",
+  "dependencies": {
+    "stream-buffers": "^3.0.0"
+  }
+}
